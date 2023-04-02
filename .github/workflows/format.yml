@@ -25,4 +25,4 @@ jobs:
 
       # run black
       - name: run black
-        run: python -m black /civo
+        run: python -m black civo/
